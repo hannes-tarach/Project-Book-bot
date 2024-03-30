@@ -1,7 +1,14 @@
 # Project-Book-bot
 # Book bot or a command-line application in Python that does static         analysis on text files.
 
-"""
+ TLDR:
+# ctrl + s
+# git add .
+# git commit -m "description of changes"
+# git push origin main
+
+
+
 STAGE THE CHANGE
 First, let's stage the change. Run this command from the root(bookbot) of your repo in the terminal. Use CD to get where you want, ls to check content. Bookbot is in /workspace/github.com/hannes-tarach/bookbot
 
@@ -22,4 +29,4 @@ Now that your change has been committed locally, you should notice that your sou
 Run this command:
 git push origin main
 
-"""
+
